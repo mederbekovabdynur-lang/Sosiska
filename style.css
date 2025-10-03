@@ -1,0 +1,250 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.header{
+    width: 1600px;
+    height: 90px;
+    /* border: 2px solid red; */
+}
+
+.header1{
+    padding: 30px 10px;
+    display: flex;
+    gap: 100px;
+}
+
+.a1{
+    position: relative;
+    left: 20px;
+}
+
+.header2{
+    position: relative;
+    right: 00px;
+    bottom: 4px;
+    display: flex;
+    gap: 50px;
+    font-size: 16px;
+}
+
+.header2 h2{
+    position: relative;
+    top: 5px;
+}
+
+
+
+.header2 select{
+    border: none;
+    outline: none;
+}
+
+.flex1{
+    display: flex;
+    gap: 34px;
+}
+
+.section1{
+    padding-left: 280px;
+    display: flex;
+    position: relative;
+    right: 300px;
+}
+
+.section1 h5{
+    color: rgba(199, 37, 53, 1);
+    font-size: 16px;
+    font-weight: 500;
+    position: relative;
+    bottom: 20px;
+    left: 360px;
+}
+
+.flex2 h1{
+    font-size: 61px;
+    font-weight: 500;
+    color: rgba(18, 18, 169, 0.89);
+}
+
+.flex2 h2{
+    font-size: 61px;
+    font-weight: 500;
+}
+
+.flex2 p{
+    color: rgba(3, 13, 21, 0.889);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.flex4 button{
+    width: 151px;
+    height: 58px;
+    background-color: rgba(36, 124, 192, 1);
+    color: rgba(255, 255, 255, 1);
+    border: none;
+    font-size: 16px;
+}
+
+.flex4 button:hover{
+    position: relative;
+    bottom: 5px;
+    box-shadow: 0 5px 10px black;
+    transition: all 0.4s ease;
+    transform: scale(1.1);
+}
+
+
+.flex4 h4{
+    color: rgba(3, 13, 21, 1);
+    font-size: 20px;
+    font-weight: 500;
+    position: relative;
+    left: 200px;
+    bottom: 38px;
+}
+
+.flex4 h3{
+    color: rgb(80, 79, 79);
+    font-size: 20px;
+    font-weight: 500;
+    position: relative;
+    left: 320px;
+    bottom: 60px;
+}
+
+.flex3 img{
+    width: 643px;
+    height: 611px;
+}
+
+.section2{
+    width: 1140px;
+    height: 237px;
+    position: relative;
+    right: 30px;
+    bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 100px 80px 0px rgba(174, 174, 174, 0.08),0px 43.750999450683594px 36.44142150878906px 0px rgba(174, 174, 174, 0.06),0px 19.84010124206543px 19.140562057495117px 0px rgba(174, 174, 174, 0.05),0px 6.772141456604004px 9.613308906555176px 0px rgba(174, 174, 174, 0.04),0px 0.19007934629917145px 4.14346981048584px 0px rgba(174, 174, 174, 0.03),0px -1.7396812438964844px 1.2053217887878418px 0px rgba(174, 174, 174, 0.02);
+    background: rgba(255, 255, 255, 1);
+}
+
+.flex5{
+    display: flex;
+    gap: 90px;
+}
+
+.top1 img{
+    width: 262px;
+    height: 248px;
+}
+
+
+.top2{
+    width: 256px;
+    height: 185.77px;
+    /* border: 2px solid black; */
+    position: relative;
+    right: 840px;
+    top: 30px;
+}
+
+.top2 h2{
+    color: rgba(3, 13, 21, 1);
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.top2 p{
+    color: rgba(3, 13, 21, 1);
+font-size: 14px;
+font-weight: 400;
+}
+
+.flex7 h4{
+    color: rgba(3, 13, 21, 1);
+font-size: 14px;
+font-weight: 300;
+    position: relative;
+    left: 57px;
+    bottom: 18px;
+}
+
+.flex7 h3{
+    color: rgb(0, 0, 0);
+font-size: 14px;
+font-weight: 300;
+}
+
+
+.flex6{
+    display: flex;
+}
+
+.flex8{
+    display: flex;
+    position: relative;
+    left: 650px;
+    bottom: 300px;
+}
+
+.korz1{
+    position: relative;
+    left: 1315px;
+    bottom: 270px;
+}
+
+.korz2{
+    position: relative;
+    left: 620px;
+    bottom: 270px;
+}
+
+.bg{
+    width: 555px;
+    height: 296px;
+    background: linear-gradient(90deg, #a339d0, #2a8df7);
+    position: relative;
+    right: 390px;
+}
+
+.bg img{
+    width: 275px;
+    height: 231px;
+    transform: rotate(28.01deg);
+    position: relative;
+    left: 290px;
+    bottom: 260px;
+}
+
+.pad{
+    padding: 80px 50px;
+}
+
+.pad h2 {
+    color: rgb(197, 201, 204);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.pad h1{
+    color: #E6EDF2;
+    font-size: 31px;
+    font-weight: 600;
+}
+
+.pad h3{
+    color: #E6EDF2;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.flex11{
+    position: relative;
+    left: 640px;
+    bottom: 298px;
+}

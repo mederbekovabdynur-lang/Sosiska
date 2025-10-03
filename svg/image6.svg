@@ -1,0 +1,13 @@
+<svg viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44.000000" height="44.000000" fill="none" customFrame="#000000">
+	<g id="Group 90">
+		<circle id="Ellipse 8" cx="22" cy="22" r="22" fill="rgb(243.312,243.312,243.312)" />
+		<circle id="Ellipse 7" cx="22" cy="22" r="19" fill="rgb(255,255,255)" />
+		<g id="Group 89">
+			<g id="Group 12">
+				<path id="Vector" d="M19.3182 30.2719C18.9165 30.2719 18.5909 29.9463 18.5909 29.5446C18.5909 29.143 18.9165 28.8174 19.3182 28.8174C19.7199 28.8174 20.0455 29.143 20.0455 29.5446C20.0455 29.9463 19.7199 30.2719 19.3182 30.2719Z" stroke="rgb(0,0,0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+				<path id="Vector" d="M27.3181 30.2719C26.9164 30.2719 26.5908 29.9463 26.5908 29.5446C26.5908 29.143 26.9164 28.8174 27.3181 28.8174C27.7198 28.8174 28.0454 29.143 28.0454 29.5446C28.0454 29.9463 27.7198 30.2719 27.3181 30.2719Z" stroke="rgb(0,0,0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+				<path id="Vector" d="M13.5 14.9995L16.4091 14.9995L18.3582 24.7374C18.4247 25.0723 18.6068 25.373 18.8727 25.5871C19.1387 25.8011 19.4714 25.9148 19.8127 25.9083L26.8818 25.9083C27.2231 25.9148 27.5558 25.8011 27.8218 25.5871C28.0877 25.373 28.2698 25.0723 28.3363 24.7374L29.5 18.6358L17.1364 18.6358" fill-rule="nonzero" stroke="rgb(0,0,0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+			</g>
+		</g>
+	</g>
+</svg>
